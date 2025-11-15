@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "version": "1",
+    "name": "BOOAI Marketplace",
+    "subtitle": "Verified NFTs on Base",
+    "description": "Full OpenSea-style marketplace for Farcaster creators",
+    "screenshotUrls": ["https://your-booai-app.vercel.app/screenshot.png"],
+    "iconUrl": "https://your-booai-app.vercel.app/logo.png",
+    "splashImageUrl": "https://your-booai-app.vercel.app/splash.jpg",
+    "splashBackgroundColor": "#0f172a",
+    "homeUrl": "https://your-booai-app.vercel.app",
+    "webhookUrl": "https://your-booai-app.vercel.app/api/webhook",
+    "primaryCategory": "nft",
+    "tags": ["nft", "farcaster", "base", "marketplace", "opensea", "mint", "drop", "verified"],
+    "heroImageUrl": "https://your-booai-app.vercel.app/hero.jpg",
+    "tagline": "Trade Verified NFTs",
+    "ogTitle": "BOOAI Marketplace - OpenSea for Farcaster",
+    "ogDescription": "Buy, sell, mint, and collect verified NFTs on Base",
+    "ogImageUrl": "https://your-booai-app.vercel.app/og-image.jpg"
+  }
+}
