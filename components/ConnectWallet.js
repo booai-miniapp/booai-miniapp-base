@@ -1,4 +1,4 @@
-import { useMiniKit } from '@coinbase/onchainkit/miniapp';
+import { useMiniKit } from '@coinbase/onchainkit';
 
 export const ConnectWallet = ({ onConnect }) => {
   const { isMiniApp, isWebApp } = useMiniKit();
